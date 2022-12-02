@@ -33,3 +33,5 @@ While making full use of the automatic scheduling provided by Go (code simplicit
 e.g. If there are so few customers that a single barber can handle them, all the other barbers may be asleep all the time.
 
 > Pretty terminal output 🤩
+
+![Screenshot 2022-12-02 at 21 38 34](https://user-images.githubusercontent.com/32189942/205374177-c271fbe2-2a22-45c1-a8fe-cbdb71ed63b0.png)
